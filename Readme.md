@@ -33,6 +33,16 @@ La final vom avea si o mica discutie despre experienta noastra(a trainerilor) in
 ## Frameworks - Laravel
 1. Prezentare
 
+## Linkuri utile
+1. [Framework - Laravel](https://laravel.com/)
+2. [Framework - Laracast](https://laracasts.com/)
+3. [Domenii - Namecheap](https://www.namecheap.com)
+4. [Hosting - VM -  DigitalOcean](https://www.digitalocean.com/)
+5. [Hosting - Byet](https://byet.host/)
+6. [W3School](https://www.w3schools.com/sql/sql_insert.asp)
+7. [Front-end - jQuery](https://jquery.com/)
+8. [Front-end - React](https://reactjs.org/)
+
 
 ### Deadline Proiect - 4 mai
 
